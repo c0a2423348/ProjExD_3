@@ -212,7 +212,7 @@ def main():
             bomb.update(screen)
 
         score.update(screen)
-        pg.display.update()
+
 
         pg.display.update()
         tmr += 1
